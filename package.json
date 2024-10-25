@@ -27,7 +27,7 @@
     "encrypt-storage": "2.13.3",
     "fs-extra": "^10.1.0",
     "nuxt": "^2.17.3",
-    "vue": "^2.7.10",
+    "vue": "^3.0.0",
     "nuxt-material-design-icons": "^1.0.4",
     "sweetalert": "^2.1.2",
     "vue-apexcharts": "^1.6.2",
